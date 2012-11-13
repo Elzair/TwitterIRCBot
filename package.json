@@ -1,0 +1,9 @@
+{
+  "name": "twitter-irc",
+  "private": "true",
+  "version": "0.0.1",
+  "author": "Philip Woods <elzairthesorcerer@gmail.com>",
+  "dependencies": {
+    "twitter": "*"
+  }
+}
